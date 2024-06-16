@@ -30,7 +30,7 @@ var language: String = "en"
 
 var using_text: String
 
-#test
+#test 2
 
 var need_narration_reset: bool = false
 var need_player_info_reset: bool = false
