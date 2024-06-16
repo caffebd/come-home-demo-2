@@ -2222,7 +2222,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -23.6499, -6.31856, -369.971)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.36077, -1.26223, 14.7968)
 
 [node name="END LAKE PATH" type="CSGMesh3D" parent="ClearingTwo"]
-transform = Transform3D(5.14929, 0, 0, 0, 127.403, 0, 0, 0, 1.23444, -20.649, -3.79349, -295.806)
+transform = Transform3D(5.14929, 0, 0, 0, 127.403, 0, 0, 0, 1.23444, -20.649, -3.79349, -264.189)
 mesh = SubResource("CapsuleMesh_c4kxf")
 
 [node name="TriggerClearingTwoNarration" type="Area3D" parent="ClearingTwo"]
