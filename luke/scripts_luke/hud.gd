@@ -30,6 +30,8 @@ var language: String = "en"
 
 var using_text: String
 
+#test
+
 var need_narration_reset: bool = false
 var need_player_info_reset: bool = false
 # Called when the node enters the scene tree for the first time.
